@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">地域廣播</string>
+    <string name="action_exit">離開</string>
+    <string name="action_settings">設定</string>
+    <string name="button_send_location">傳送位置</string>
+    <string name="main_activity_text">請開啟GPS，並將音量調至適當大小。</string>
+</resources>
